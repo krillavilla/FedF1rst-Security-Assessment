@@ -1,39 +1,42 @@
 # FedF1rst Security Assessment
 
-This project is all about taking charge of implementing the endpoint segment of our organization's security policy tailored for Fed F1rst Control Systems, which is now its own entity. As a security engineer, my plate will be full of diverse tasks. I'll be developing a hardening strategy for Windows Operating Systems, crafting security policies, performing self-assessments, and constructing cloud server build sheets.
+This project is about implementing the endpoint segment of our organization's security policy tailored for Fed F1rst Control Systems, which is now its own entity. As a security engineer, my plate will be full of diverse tasks. I'll develop a hardening strategy for Windows Operating Systems, crafting security policies, performing self-assessments, and constructing cloud server build sheets.
 
-## Project Overview
+## Project Objectives
 
-FedF1rst Control Systems has transitioned from being part of a larger organization to becoming an independent company. The objective is to implement robust security measures, particularly focusing on endpoint security. The tasks involve hardening Windows 10 desktops and Windows 2016 servers, creating security policies, performing a self-assessment, and building cloud server build sheets.
-
-## Project Instructions
+As part of this project, you'll undertake the following tasks:
 
 ### Part 1: Develop a Hardening Strategy for Windows Operating Systems
 
-- Analyze the Windows 2016 Server and Windows 10 Desktop for areas of security improvement.
-- Identify critical issues and recommend mitigation strategies.
-- Fill out the appropriate form with findings and recommendations.
+- Perform a comprehensive Windows 2016 Server and Windows 10 Desktop analysis to identify security vulnerabilities and weaknesses.
+- Recommend mitigation strategies and document critical issues for each system.
+- Complete the appropriate documentation to outline findings and remediation steps.
 
 ### Part 2: Create Security Policies
 
-- Develop Access Control, Information Security, and IT Asset Management policies tailored to FedF1rst Control Systems.
-- Ensure policies cover essential areas such as account creation, password management, data classification, asset management, and network segmentation.
+- Craft Access Control, Information Security, and IT Asset Management policies tailored to FedF1rst Control Systems' specific requirements.
+- Address key areas such as user account management, password policies, data classification, and network segmentation.
+- Ensure that policies adhere to industry standards and compliance regulations.
 
 ### Part 3: Self-Assessment
 
-- Utilize the provided template to perform a self-assessment on the virtual machines.
-- Document identified issues and areas requiring mitigation.
+- Conduct a thorough self-assessment using the provided template to evaluate the security posture of virtual machines.
+- Document identified security gaps, vulnerabilities, and areas for improvement.
+- Prioritize mitigation efforts based on the severity and impact of identified issues.
 
 ### Part 4: Cloud Server Build Sheet
 
-- Create a vendor-agnostic checklist/build sheet for future cloud servers, focusing on Windows and Linux environments.
-- Incorporate insights from the hardening tasks and cloud server lessons to ensure compliance with security policies and standards.
+- Develop a comprehensive checklist and build sheet for provisioning cloud servers in Windows and Linux environments.
+- Incorporate insights gained from the hardening tasks and lessons learned during the cloud server deployment process.
+- Ensure the build sheet aligns with FedF1rst Control Systems' security policies and compliance standards.
 
-## Project Requirements
+## Technical Requirements
 
-- Perform analysis and documentation of security vulnerabilities and mitigation strategies.
-- Develop comprehensive security policies tailored to FedF1rst Control Systems.
-- Conduct a self-assessment to identify security gaps and areas for improvement.
-- Create build sheets for future cloud servers to ensure compliance with security policies and standards.
+- Perform in-depth analysis and documentation of security vulnerabilities, including recommended mitigation strategies.
+- Develop security policies covering various aspects of access control, information security, and IT asset management.
+- Conduct a detailed self-assessment to identify and prioritize security improvements.
+- Create vendor-agnostic build sheets for cloud server provisioning, ensuring compliance with security policies and standards.
 
-This project provides hands-on experience in implementing security measures for endpoint devices, creating security policies, and ensuring compliance with industry standards. It is an essential step in enhancing the overall security posture of FedF1rst Control Systems.
+## Conclusion
+
+This project offers hands-on experience in implementing robust security measures for endpoint devices, crafting security policies, and ensuring compliance with industry regulations. By completing these tasks, you'll contribute significantly to enhancing the overall security posture of FedF1rst Control Systems.
