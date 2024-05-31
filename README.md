@@ -42,6 +42,6 @@ As part of this project, you'll undertake the following tasks:
 This project provided me with hands-on experience in implementing robust security measures for endpoint devices, crafting security policies, and ensuring compliance with industry standards. To progress in Udacity's Enterprise Security Engineer program, I had to ensure each section met specific requirements. It was challenging, but after four submissions, I finally completed the project. The feedback I received after each submission was invaluable, truly ensuring the project's success.
 
 1. **[Review #1](https://github.com/krillavilla/FedF1rst-Security-Assessment/blob/main/Review_1.md)**
-2. **[Review #2](https://github.com/krillavilla/Securing-the-Perimeter/blob/main/Review_2.md)**
+2. **[Review #2](https://github.com/krillavilla/FedF1rst-Security-Assessment/blob/main/Review_2.md)**
 3. **[Review #3](https://github.com/krillavilla/Securing-the-Perimeter/blob/main/Review_3.md)**
 4. **[Final_Review](https://github.com/krillavilla/Securing-the-Perimeter/blob/main/Final_Review.md)**
